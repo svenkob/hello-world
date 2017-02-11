@@ -1,5 +1,4 @@
 # Satish Venkob
-#from Fteare -branch
 try:
     import sys
     import timeit
