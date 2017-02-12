@@ -1,5 +1,4 @@
 # Satish Venkob
-#merged
 try:
     import sys
     import timeit
