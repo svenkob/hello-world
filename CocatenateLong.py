@@ -1,5 +1,5 @@
 # Satish Venkob
-#from Fteare -branch
+#merged
 try:
     import sys
     import timeit
